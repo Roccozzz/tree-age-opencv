@@ -8,3 +8,5 @@
 ![tree_age4](https://github.com/Roccozzz/tree-age-opencv/assets/90211080/5e5239f7-4a43-4661-b87e-40b9d680917a)
 
 ![tree_age5](https://github.com/Roccozzz/tree-age-opencv/assets/90211080/e55ea8d8-c454-44cd-8284-90a36283df2c)
+
+![tree_age6](https://github.com/Roccozzz/tree-age-opencv/assets/90211080/bcc4cc29-5665-444a-96b5-a947f7851e55)
