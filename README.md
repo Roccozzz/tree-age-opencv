@@ -1,4 +1,7 @@
 # tree-age-opencv
+
+Calculate tree age by automatically detecting and counting tree rings using openCV.
+
 ![tree_age1](https://github.com/Roccozzz/tree-age-opencv/assets/90211080/d32d924f-cbd1-4c8c-96f3-c5b19faa66aa)
 
 ![tree_age2](https://github.com/Roccozzz/tree-age-opencv/assets/90211080/27009367-408a-4902-b3ed-472dbede3b8d)
