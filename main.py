@@ -20,7 +20,7 @@ def count_column(img, col):
 
     return counter
 
-image_path = 'input.tif'
+image_path = 'img/input.tif'
 image = cv2.imread(image_path)
 
 plt.figure(figsize=(15, 10))
